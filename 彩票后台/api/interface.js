@@ -6,8 +6,8 @@ import tool from '../tool/tool'
 export default {
 	config: {
 		// baseUrl: "http://192.168.1.192:807/",
-		url:"http://8.134.71.90:8787",
-		baseUrl: "http://8.134.71.90:8787/admin/",
+		url:"http://8.134.56.206:8787",
+		baseUrl: "http://8.134.56.206:8787/admin/",
 		header: {
 			// 'Content-Type': 'application/json;charset=UTF-8'
 			'Content-Type': 'application/x-www-form-urlencoded',

@@ -129,7 +129,7 @@
 				this.$emit("closeWindow")
 			},
 			goBack() {
-				uni.navigateTo({
+				uni.reLaunch({
 					url: "/pages/app/index"
 				})
 			}
